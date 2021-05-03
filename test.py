@@ -13,3 +13,5 @@ print('forms')
 # git checkout -m <branch_name> для перехода на новую ветку
 # git branch - проверка текущей ветки
 
+for i in range(0, 10):
+    print(1)
